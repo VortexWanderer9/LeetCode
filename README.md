@@ -26,5 +26,7 @@ The repository is designed to help users understand and implement solutions to c
     Each file will contain the solution to the respective problem along with comments explaining the logic used.
 This project i just for practice purpose to improve problem solving skills and coding skills.
 
+    Happy Coding!
+
     
 
